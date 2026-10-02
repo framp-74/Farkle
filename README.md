@@ -217,4 +217,4 @@ Farkle is offered as a full free version with all features and updates included.
 Download Farkle now and embark on your exciting dice-rolling adventure! Enjoy the thrill of competition and aim for the highest score!
 
 ---
-**Last updated:** 2026-10-02 00:18:03 UTC
+**Last updated:** 2026-10-02 06:23:44 UTC
